@@ -39,5 +39,10 @@ Function B: (Gets each O player move, then checks each X player move to get the 
        - Set Max as currentPoints
        }
   6. Return Max  ( The maximum points that the User can get from his moves, according to the current AI move)
- 
     
+    
+ Function D: (Gets the new gameBoard3 reference, receive back an INT of (User - AI points) as currentPoints)
+ 
+ 
+ 
+ 
